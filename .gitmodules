@@ -1,3 +1,4 @@
 [submodule "test-sub"]
 	path = test-sub
 	url = https://github.com/dmitrii-denisov-c24/test-sub.git
+	branch = m2-sub
